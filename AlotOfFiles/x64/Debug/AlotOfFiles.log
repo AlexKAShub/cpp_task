@@ -1,0 +1,13 @@
+﻿  AlotOfFiles.cpp
+  Dani.cpp
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(12,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(13,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(38,21): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(41,21): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(75,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(76,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(79,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(82,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(87,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexk\source\repos\AlotOfFiles\AlotOfFiles\Dani.cpp(88,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
